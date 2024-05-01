@@ -1,5 +1,3 @@
-"use strict";
-
 const categoriesList = document.querySelectorAll("#categories .item");
 
 console.log("Categories quantity:", categoriesList.length);
